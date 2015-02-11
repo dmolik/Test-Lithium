@@ -1,4 +1,5 @@
-Test-Lithium
+Test::Lithium
+=============
 
 The README is used to introduce the module and provide instructions on
 how to install the module, any machine dependencies it may have (for
@@ -13,6 +14,7 @@ fixes for the module are worth downloading.
 
 
 INSTALLATION
+------------
 
 To install this module, run the following commands:
 
@@ -22,6 +24,7 @@ To install this module, run the following commands:
 	make install
 
 SUPPORT AND DOCUMENTATION
+-------------------------
 
 After installing, you can find documentation for this module with the
 perldoc command.
@@ -29,8 +32,9 @@ perldoc command.
     perldoc Test::Lithium
 
 COPYRIGHT AND LICENCE
+---------------------
 
-Copyright (C) 2013 James Hunt & Dan Molik
+Copyright (C) 2015 James Hunt & Dan Molik
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
