@@ -26,7 +26,9 @@ perldoc command.
 COPYRIGHT AND LICENCE
 ---------------------
 
-Copyright (C) 2015 James Hunt & Dan Molik
+Copyright (C) 2015
+
+Geoff Franks, James Hunt & Dan Molik
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
