@@ -584,9 +584,9 @@ sub dev_pause
 	<STDIN>;
 }
 
-=head1 Test::Lithium
+=head1 NAME
 
-Selenium Tests in Perl!
+Test::Lithium - Selenium Tests in Perl!
 
 =head1 DESCRIPTION
 
